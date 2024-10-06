@@ -18,22 +18,12 @@ Example content:
 ### Data
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/databaseLogo.png" alt="" width="75" align="right" />
 
-- <a href="https://figshare.com/articles/dataset/InvaCost_References_and_description_of_economic_cost_estimates_associated_with_biological_invasions_worldwide_/12668570/5"><em>InvaCost</em></a>: the living database itself
-- <a href="https://borisleroy.com/invacost/invacost_livingfigure.html">InvaCost living figure</a>: Updated global figures of the taxonomic and geographic costs of biological invasions, based on the latest version of the <em>InvaCost</em> database (figure repository <a href="https://github.com/InvaCost/invacost_livingfigure">here</a>) 
-
-### References
-<img src="https://github.com/InvaCost/.github/blob/main/profile/refsLogo.png" alt="" width="75" align="right" />
-
-- <a href="https://github.com/InvaCost/InvaCostRefs/">InvaCostRefs</a>: References and PDFs of papers based on the InvaCost project
-- <a href="https://github.com/InvaCost/invacost_FAQ">InvaCost FAQ</a>: frequently asked questions about the <em>InvaCost</em> database
+- forthcoming 
 
 ### Scripts
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/scriptsLogo.png" alt="" width="75" align="right" />
 
-- <a href="https://github.com/InvaCost/invacost"><code>invacost</code></a>: The <code>invacost</code> R Package: Global Costs of Biological Invasions
-- <a href="https://github.com/InvaCost/InvaCostVersionTrends">temporal trends in entries, species, and costs among InvaCost versions</a>: R code
-- <a href="https://github.com/InvaCost/InvasiveSppCostsAustralia">invasive species costs in Australia</a>: R Code and data
-- <a href="https://github.com/InvaCost/invacost-NZ">economic synthesis of biological invasions in New Zealand</a>: R code and data
+- forthcoming
 
 ### Learning resources
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/learningLogo.png" alt="" width="75" align="right" />
