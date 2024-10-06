@@ -1,5 +1,5 @@
 ## InvaHealth: Global human health costs from biological invasions
-<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/mozzie.png" alt="" width="200" align="left" />
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/mozzie.png" alt="" width="150" align="left" />
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/currency.webp" alt="" width="150" align="right" />
 
 This is the shared Github code and data repository for members of InvaHealth. Curated by @<a href="https://github.com/cjabradshaw">cjabradshaw</a>, @<a href="https://github.com/GLatombe">glatombe</a>, and @<a href="https://github.com/chrisdiagne">chrisdiagne</a>.<br>
