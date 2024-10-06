@@ -1,6 +1,6 @@
 ## InvaHealth: Global human health costs from biological invasions
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/bha.jpg" alt="" width="200" align="left" />
-<img src="https://github.com/InvaHealth/.github/blob/main/profile/currency.webp" alt="" width="150" align="right" />
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/currency.webp" alt="" width="150" align="right" />
 
 This is the shared Github code and data repository for members of InvaHealth. Curated by @<a href="https://github.com/cjabradshaw">cjabradshaw</a> and @<a href="https://github.com/GLatombe">glatombe</a>.
 <br>
@@ -16,17 +16,17 @@ The <em>InvaHealth</em> database will be based on a framework including an eco-e
 Example content:
 
 ### Data
-<img src="https://github.com/InvaHealth/.github/blob/main/profile/databaseLogo.png" alt="" width="75" align="right" />
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/databaseLogo.png" alt="" width="75" align="right" />
 
 - forthcoming 
 
 ### Scripts
-<img src="https://github.com/InvaHealth/.github/blob/main/profile/scriptsLogo.png" alt="" width="75" align="right" />
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/scriptsLogo.png" alt="" width="75" align="right" />
 
 - forthcoming
 
 ### Learning resources
-<img src="https://github.com/InvaHealth/.github/blob/main/profile/learningLogo.png" alt="" width="75" align="right" />
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/learningLogo.png" alt="" width="75" align="right" />
 
 - <a href="https://github.com/CABAH/assignDOI">assignDOI</a>: Assign a digital object identifier (DOI) to your Github repository
 - <a href="https://github.com/CABAH/FAIR_Workshop_github">FAIR_Workshop_github</a>: A repository for practicing the basic use of Github
@@ -34,7 +34,7 @@ Example content:
 - <a href="https://github.com/CABAH/learningPythonResources">learningPythonResources</a>: Various online & other resources for learning and improving skills in the Python programming language
 
 ### Software/utilities
-<img src="https://github.com/InvaHealth/.github/blob/main/profile/softwareLogo.png" alt="" width="75" align="right" />
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/softwareLogo.png" alt="" width="75" align="right" />
 
 - <a href="https://github.com/CABAH/QGIS">QGIS</a>: A free, open-source, cross-platform (lin/win/mac) geographical information system (GIS)
 
