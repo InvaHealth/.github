@@ -2,7 +2,7 @@
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/mozzie.png" alt="" width="200" align="left" />
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/currency.webp" alt="" width="150" align="right" />
 
-This is the shared Github code and data repository for members of InvaHealth. Curated by @<a href="https://github.com/cjabradshaw">cjabradshaw</a> and @<a href="https://github.com/GLatombe">glatombe</a>.
+This is the shared Github code and data repository for members of InvaHealth. Curated by @<a href="https://github.com/cjabradshaw">cjabradshaw</a> and @<a href="https://github.com/GLatombe">glatombe</a>.<br>
 <br>
 If you are affiliated with InvaHealth and have a Github account (click <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home">here</a> to subscribe to Github if not), but are not yet a member of this Github organisation, please request membership <a href="mailto:glatombe@ed.ac.uk?subject=Please add me to the InvaHealth Github page&body=Hello Guillaume,%20%0D%0A%20%0D%0APlease add me to the Github organisation page using my account name: @[your Github account handle].%20%0D%0A%20%0D%0AThank you,">here</a>.<br>
 <br>
