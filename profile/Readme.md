@@ -52,7 +52,5 @@ Example content:
 <br>
 <img src="profile/InvaCostPubs.jpg" alt="" width="800" align="centre" />
 <br>
-<p></p><a href="https://www.universite-paris-saclay.fr/"><img src="https://github.com/InvaCost/.github/blob/main/profile/logo_UPS.png" alt="" width="150" align="left" /></a>
-<a href="https://www.cnrs.fr/"><img src="https://github.com/InvaCost/.github/blob/main/profile/logo_CNRS.png" alt="" width="70" align="left" /></a>
-<img src="https://github.com/InvaCost/.github/blob/main/profile/logo_AXA.png" alt="" width="60" align="left" />
-<a href="https://anr.fr/fr/"><img src="https://github.com/InvaCost/.github/blob/main/profile/logo_ANR.png" alt="" width="90" align="left" /></a></p>
+<p></p><a href="https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/CESABlogo.png" alt="" width="150" align="left" /></a>
+<a href="https://www.fondationbiodiversite.fr/"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/FRBlogo.png" alt="" width="70" align="left" /></a></p>
