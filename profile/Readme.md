@@ -50,7 +50,5 @@ Example content:
 
 <br>
 <br>
-<img src="profile/InvaCostPubs.jpg" alt="" width="800" align="centre" />
-<br>
-<p></p><a href="https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/CESABlogo.png" alt="" width="150" align="left" /></a>
-<a href="https://www.fondationbiodiversite.fr/"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/FRBlogo.png" alt="" width="70" align="left" /></a></p>
+<p></p><a href="https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/CESABlogo.png" alt="" width="200" align="left" /></a>
+<a href="https://www.fondationbiodiversite.fr/"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/FRBlogo.png" alt="" width="150" align="left" /></a></p>
