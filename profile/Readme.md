@@ -44,7 +44,7 @@ Example content:
 - forthcoming
 
 ### General references
-See the '<a href="https://github.com/InvaHealth/references/tree/main/PDF">references</a>' repository for a list of relevant references.
+See the '<a href="https://github.com/InvaHealth/references/">references</a>' repository for a list of relevant references.
 
 ### Related databases
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/databaseLogo.png" alt="" width="75" align="right" />
