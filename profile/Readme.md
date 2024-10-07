@@ -22,7 +22,7 @@ The <em>InvaHealth</em> database will be based on a framework including an eco-e
 
 #### Participants
 - <a href="https://scholar.google.com/citations?user=dH_qGsMAAAAJ&hl=es">Elena Angulo</a>, Consejo Superior de Investigaciones Científicas
-- <a href="http://https://globalecologyflinders.com/people/#CJAB">Corey Bradshaw</a>, Flinders University
+- <a href="https://globalecologyflinders.com/people/#CJAB">Corey Bradshaw</a>, Flinders University
 - <a href="https://www.cee-m.fr/fr/member/courtois-pierre-2/">Pierre Courtois</a>, Centre for Environmental Economics
 - <a href="https://pure.qub.ac.uk/en/persons/ross-cuthbert-2">Ross Cuthbert</a>, Queen's University Belfast
 - <a href="https://portal.findresearcher.sdu.dk/en/persons/mkour">Melina Kourantidou</a>, University of Southern Denmark
@@ -42,6 +42,9 @@ Example content:
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/scriptsLogo.png" alt="" width="75" align="right" />
 
 - forthcoming
+
+### Related databases
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/databaseLogo.png" alt="" width="75" align="right" />
 
 ### Learning resources
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/learningLogo.png" alt="" width="75" align="right" />
