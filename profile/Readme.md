@@ -16,8 +16,11 @@ The <em>InvaHealth</em> database will be based on a framework including an eco-e
 ### Core members
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/collaborators.png" alt="" width="75" align="right" />
 
+#### Principal Investigators
 - <a href="https://www.research.ed.ac.uk/en/persons/guillaume-latombe">Guillaume Latombe</a>, University of Edinburgh
 - <a href="https://scholar.google.com/citations?user=Nyeg3eIAAAAJ&hl=fr">Christophe Diagne</a>, Institut de recherche pour le développement
+
+#### Participants
 - <a href="https://scholar.google.com/citations?user=dH_qGsMAAAAJ&hl=es">Elena Angulo</a>, Consejo Superior de Investigaciones Científicas
 - <a href="http://https://globalecologyflinders.com/people/#CJAB">Corey Bradshaw</a>, Flinders University
 - <a href="https://www.cee-m.fr/fr/member/courtois-pierre-2/">Pierre Courtois</a>, Centre for Environmental Economics
