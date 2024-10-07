@@ -18,14 +18,15 @@ The <em>InvaHealth</em> database will be based on a framework including an eco-e
 
 - <a href="https://www.research.ed.ac.uk/en/persons/guillaume-latombe">Guillaume Latombe</a>, University of Edinburgh
 - <a href="https://scholar.google.com/citations?user=Nyeg3eIAAAAJ&hl=fr">Christophe Diagne</a>, Institut de recherche pour le développement
-- <a href="https://scholar.google.com/citations?user=59VAYs4AAAAJ&hl=en">Anna Turbelin</a>, Natural Resources Canada
 - <a href="https://scholar.google.com/citations?user=dH_qGsMAAAAJ&hl=es">Elena Angulo</a>, Consejo Superior de Investigaciones Científicas
+- <a href="http://https://globalecologyflinders.com/people/#CJAB">Corey Bradshaw</a>, Flinders University
 - <a href="https://www.cee-m.fr/fr/member/courtois-pierre-2/">Pierre Courtois</a>, Centre for Environmental Economics
+- <a href="https://pure.qub.ac.uk/en/persons/ross-cuthbert-2">Ross Cuthbert</a>, Queen's University Belfast
+- <a href="https://portal.findresearcher.sdu.dk/en/persons/mkour">Melina Kourantidou</a>, University of Southern Denmark
+- <a href="https://orcid.org/0000-0002-7334-8070">Paulina Pontifes</a>, Institut de recherche pour le développement
 - <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/1660-david-renault.html">David Renault</a>, Université de Rennes
 - <a href="https://scholar.google.it/citations?user=TYPnVQ0AAAAJ&hl=it">David Roiz</a>, Institut de recherche pour le développement
-- <a href="https://orcid.org/0000-0002-7334-8070">Paulina Pontifes</a>, Institut de recherche pour le développement
-- <a href="https://portal.findresearcher.sdu.dk/en/persons/mkour">Melina Kourantidou</a>, University of Southern Denmark
-- <a href="https://pure.qub.ac.uk/en/persons/ross-cuthbert-2">Ross Cuthbert</a>, Queen's University Belfast
+- <a href="https://scholar.google.com/citations?user=59VAYs4AAAAJ&hl=en">Anna Turbelin</a>, Natural Resources Canada
 
 Example content:
 
