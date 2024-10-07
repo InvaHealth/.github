@@ -46,6 +46,9 @@ Example content:
 ### Related databases
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/databaseLogo.png" alt="" width="75" align="right" />
 
+- <em><a href="https://github.com/InvaCost/">InvaCost</a></em>
+- AedesCost
+
 ### Learning resources
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/learningLogo.png" alt="" width="75" align="right" />
 
