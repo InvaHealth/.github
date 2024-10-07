@@ -14,6 +14,8 @@ Biological invasions are a major component of global change. They have important
 The <em>InvaHealth</em> database will be based on a framework including an eco-epidemiological component detailing various mechanisms affecting health and an economic component assessing cost distribution among stakeholders. This resource will facilitate future research, inform science-based policies, and contribute to better human health outcomes by preventing and addressing invasion-driven impacts, while promoting biodiversity conservation and ecological integrity.
 
 ### Core members
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/collaborators.png" alt="" width="75" align="right" />
+
 - <a href="https://www.research.ed.ac.uk/en/persons/guillaume-latombe">Guillaume Latombe</a>, University of Edinburgh
 - <a href="https://scholar.google.com/citations?user=Nyeg3eIAAAAJ&hl=fr">Christophe Diagne</a>, Institut de recherche pour le développement
 - <a href="https://scholar.google.com/citations?user=59VAYs4AAAAJ&hl=en">Anna Turbelin</a>, Natural Resources Canada
