@@ -47,7 +47,7 @@ Example content:
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/databaseLogo.png" alt="" width="75" align="right" />
 
 - <em><a href="https://github.com/InvaCost/">InvaCost</a></em>
-- AedesCost
+- <em><a href="https://www.sciencedirect.com/science/article/pii/S0048969724032017">AedesCost</a></em>
 
 ### Learning resources
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/learningLogo.png" alt="" width="75" align="right" />
