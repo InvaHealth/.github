@@ -41,7 +41,7 @@ Example content:
 ### Scripts
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/scriptsLogo.png" alt="" width="75" align="right" />
 
-- forthcoming
+- <a href="https://github.com/InvaHealth/WWFbioregions"><code>WWFecoregionOverlay.R</code></a>: find the biome in the WWF Terrestrial Ecoregions of the World shapefile for specific lat/lon coordinates
 
 ### General references
 See the '<a href="https://github.com/InvaHealth/references/">references</a>' repository for a list of relevant references.
@@ -53,7 +53,6 @@ See the '<a href="https://github.com/InvaHealth/references/">references</a>' rep
 - <em><a href="https://www.sciencedirect.com/science/article/pii/S0048969724032017">AedesCost</a></em>
 - <em><a href="https://www.nature.com/articles/s41597-024-03824-w">GIATAR</a></em>
 - <em><a href="https://www.globalbioticinteractions.org/">GLOBI</a></em>
-
 
 ### Learning resources
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/learningLogo.png" alt="" width="75" align="right" />
