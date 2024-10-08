@@ -36,7 +36,7 @@ Example content:
 ### Data
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/databaseLogo.png" alt="" width="75" align="right" />
 
-- forthcoming 
+- <a href="https://github.com/InvaHealth/WWFbioregions">WWF Terrestrial Ecoregions of the World</a>: shapefiles for assessing the ecoregion associated with each database entry 
 
 ### Scripts
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/scriptsLogo.png" alt="" width="75" align="right" />
