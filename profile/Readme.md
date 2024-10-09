@@ -14,7 +14,7 @@ Biological invasions are a major component of global change. They have important
 The <em>InvaHealth</em> database will be based on a framework including an eco-epidemiological component detailing various mechanisms affecting health and an economic component assessing cost distribution among stakeholders. This resource will facilitate future research, inform science-based policies, and contribute to better human health outcomes by preventing and addressing invasion-driven impacts, while promoting biodiversity conservation and ecological integrity.
 
 ### Core members
-<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/collaborators.png" alt="" width="75" align="right" />
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/collaborators.png" alt="" width="60" align="right" />
 
 #### Principal Investigators
 - <a href="https://www.research.ed.ac.uk/en/persons/guillaume-latombe">Guillaume Latombe</a>, University of Edinburgh
@@ -34,27 +34,29 @@ The <em>InvaHealth</em> database will be based on a framework including an eco-e
 Example content:
 
 ### Data
-<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/databaseLogo.png" alt="" width="75" align="right" />
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/databaseLogo.png" alt="" width="60" align="right" />
 
 - <a href="https://github.com/InvaHealth/WWFbioregions">WWF Terrestrial Ecoregions of the World</a>: shapefiles for assessing the ecoregion associated with each database entry 
 
 ### Scripts
-<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/scriptsLogo.png" alt="" width="75" align="right" />
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/scriptsLogo.png" alt="" width="60" align="right" />
 
 - <a href="https://github.com/InvaHealth/WWFbioregions"><code>WWFecoregionOverlay.R</code></a>: find the biome in the WWF Terrestrial Ecoregions of the World shapefile for specific lat/lon coordinates
 - <a href="https://github.com/InvaHealth/countryCentroids"><code>countryCentroids.R</code></a>: find the latitude/longitude of the centroid of any country
 - <a href="https://github.com/InvaHealth/countryCodes"><code>countrycodes.R</code></a>: translate full country names in various languages to the ISO3 country code
 
 ### Metadata
-<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/metadata.png" alt="" width="75" align="right" />
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/metadata.png" alt="" width="60" align="right" />
 
 - <a href="https://github.com/InvaHealth/InvaHealthDDdescriptors">InvaHealthDDdescriptors</a>: column descriptions for the <em>InvaHealth</em> database
 
 ### General references
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/references.png" alt="" width="60" align="right" />
+
 See the '<a href="https://github.com/InvaHealth/references/">references</a>' repository for a list of relevant references.
 
 ### Related databases
-<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/databaseLogo.png" alt="" width="75" align="right" />
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/databaseLogo.png" alt="" width="60" align="right" />
 
 - <em><a href="https://github.com/InvaCost/">InvaCost</a></em>
 - <em><a href="https://www.sciencedirect.com/science/article/pii/S0048969724032017">AedesCost</a></em>
@@ -62,7 +64,7 @@ See the '<a href="https://github.com/InvaHealth/references/">references</a>' rep
 - <em><a href="https://www.globalbioticinteractions.org/">GLOBI</a></em>
 
 ### Learning resources
-<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/learningLogo.png" alt="" width="75" align="right" />
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/learningLogo.png" alt="" width="60" align="right" />
 
 - <a href="https://github.com/CABAH/assignDOI">assignDOI</a>: Assign a digital object identifier (DOI) to your Github repository
 - <a href="https://github.com/CABAH/FAIR_Workshop_github">FAIR_Workshop_github</a>: A repository for practicing the basic use of Github
