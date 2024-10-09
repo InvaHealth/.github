@@ -46,6 +46,8 @@ Example content:
 - <a href="https://github.com/InvaHealth/countryCodes"><code>countrycodes.R</code></a>: translate full country names in various languages to the ISO3 country code
 
 ### Metadata
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/metadata.png" alt="" width="75" align="right" />
+
 - <a href="https://github.com/InvaHealth/InvaHealthDDdescriptors">InvaHealthDDdescriptors</a>: column descriptions for the <em>InvaHealth</em> database
 
 ### General references
