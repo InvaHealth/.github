@@ -45,6 +45,9 @@ Example content:
 - <a href="https://github.com/InvaHealth/countryCentroids"><code>countryCentroids.R</code></a>: find the latitude/longitude of the centroid of any country
 - <a href="https://github.com/InvaHealth/countryCodes"><code>countrycodes.R</code></a>: translate full country names in various languages to the ISO3 country code
 
+### Metadata
+- <a href="https://github.com/InvaHealth/InvaHealthDDdescriptors">InvaHealthDDdescriptors</a>: column descriptions for the <em>InvaHealth</em> database
+
 ### General references
 See the '<a href="https://github.com/InvaHealth/references/">references</a>' repository for a list of relevant references.
 
