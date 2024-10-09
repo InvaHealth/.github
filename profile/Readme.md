@@ -42,7 +42,7 @@ Example content:
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/scriptsLogo.png" alt="" width="75" align="right" />
 
 - <a href="https://github.com/InvaHealth/WWFbioregions"><code>WWFecoregionOverlay.R</code></a>: find the biome in the WWF Terrestrial Ecoregions of the World shapefile for specific lat/lon coordinates
-- <a href="https://github.com/InvaHealth/countryCentroids"><code>countryCentroids.R<code></a>: find the latitude/longitude of the centroid of any country
+- <a href="https://github.com/InvaHealth/countryCentroids"><code>countryCentroids.R</code></a>: find the latitude/longitude of the centroid of any country
 - <a href="https://github.com/InvaHealth/countryCodes"><code>countrycodes.R</code></a>: translate full country names in various languages to the ISO3 country code
 
 ### General references
