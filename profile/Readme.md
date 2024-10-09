@@ -75,7 +75,7 @@ See the '<a href="https://github.com/InvaHealth/references/">references</a>' rep
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/softwareLogo.png" alt="" width="60" align="right" />
 
 - <a href="https://github.com/CABAH/QGIS">QGIS</a>: A free, open-source, cross-platform (lin/win/mac) geographical information system (GIS)
-- <a href="https://github.com/FRBCesab">FRBCesab</a>: The Fondation pour la recherche sur la biodiversité (FRB) Centre de synthèse et d'analyse sur la biodiversité (CESAB) Github organisation page
+- <a href="https://github.com/FRBCesab">FRBCesab</a>: The <a href="https://www.fondationbiodiversite.fr/">Fondation pour la recherche sur la biodiversité</a> (FRB) <a href="https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/">Centre de synthèse et d'analyse sur la biodiversité</a> (CESAB) Github organisation page
 
 <br>
 <br>
