@@ -72,7 +72,7 @@ See the '<a href="https://github.com/InvaHealth/references/">references</a>' rep
 - <a href="https://github.com/CABAH/learningPythonResources">learningPythonResources</a>: Various online & other resources for learning and improving skills in the Python programming language
 
 ### Software/utilities
-<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/softwareLogo.png" alt="" width="75" align="right" />
+<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/softwareLogo.png" alt="" width="60" align="right" />
 
 - <a href="https://github.com/CABAH/QGIS">QGIS</a>: A free, open-source, cross-platform (lin/win/mac) geographical information system (GIS)
 
