@@ -50,11 +50,6 @@ Example content:
 
 - <a href="https://github.com/InvaHealth/InvaHealthDDdescriptors">InvaHealthDDdescriptors</a>: column descriptions for the <em>InvaHealth</em> database
 
-### General references
-<img src="https://github.com/InvaHealth/.github/blob/main/profile/www/references.png" alt="" width="60" align="right" />
-
-See the '<a href="https://github.com/InvaHealth/references/">references</a>' repository for a list of relevant references.
-
 ### Related databases
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/databaseLogo.png" alt="" width="60" align="right" />
 
