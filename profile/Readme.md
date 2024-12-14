@@ -18,7 +18,7 @@ The <em>InvaHealth</em> database will be based on a framework including an eco-e
 
 #### Principal Investigators
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/GL.png" alt="" width="50" align="left" />
-- <a href="https://www.research.ed.ac.uk/en/persons/guillaume-latombe">Guillaume Latombe</a>, University of Edinburgh<br>
+- <a href="https://www.research.ed.ac.uk/en/persons/guillaume-latombe">Guillaume Latombe</a>, University of Edinburgh<br><br><br>
 <img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/CD.png" alt="" width="50" align="left" />
 - <a href="https://scholar.google.com/citations?user=Nyeg3eIAAAAJ&hl=fr">Christophe Diagne</a>, Institut de recherche pour le développement
 
