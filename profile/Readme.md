@@ -29,13 +29,20 @@ The <em>InvaHealth</em> database will be based on a framework including an eco-e
 <a href="https://globalecologyflinders.com/people/#CJAB">Corey Bradshaw</a>, Flinders University<br><br><br>
 <a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/FC.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/FC.png" alt="" width="50" align="left" /></a>
 <a href="https://www.biodiversitydynamics.fr/franck-courchamp/">Franck Courchamp</a>, Université Paris-Saclay<br><br><br>
-- <a href="https://www.cee-m.fr/fr/member/courtois-pierre-2/">Pierre Courtois</a>, Centre for Environmental Economics
-- <a href="https://pure.qub.ac.uk/en/persons/ross-cuthbert-2">Ross Cuthbert</a>, Queen's University Belfast
-- <a href="https://portal.findresearcher.sdu.dk/en/persons/mkour">Melina Kourantidou</a>, University of Southern Denmark
-- <a href="https://orcid.org/0000-0002-7334-8070">Paulina Pontifes</a>, Institut de recherche pour le développement
-- <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/1660-david-renault.html">David Renault</a>, Université de Rennes
-- <a href="https://scholar.google.it/citations?user=TYPnVQ0AAAAJ&hl=it">David Roiz</a>, Institut de recherche pour le développement
-- <a href="https://scholar.google.com/citations?user=59VAYs4AAAAJ&hl=en">Anna Turbelin</a>, Natural Resources Canada
+<a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/PC.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/PC.png" alt="" width="50" align="left" /></a>
+<a href="https://www.cee-m.fr/fr/member/courtois-pierre-2/">Pierre Courtois</a>, Centre for Environmental Economics<br><br><br>
+<a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/RC.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/RC.png" alt="" width="50" align="left" /></a>
+<a href="https://pure.qub.ac.uk/en/persons/ross-cuthbert-2">Ross Cuthbert</a>, Queen's University Belfast<br><br><br>
+<a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/MK.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/MK.png" alt="" width="50" align="left" /></a>
+<a href="https://portal.findresearcher.sdu.dk/en/persons/mkour">Melina Kourantidou</a>, University of Southern Denmark<br><br><br>
+<a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/PP.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/PP.png" alt="" width="50" align="left" /></a>
+<a href="https://orcid.org/0000-0002-7334-8070">Paulina Pontifes</a>, Institut de recherche pour le développement<br><br><br>
+<a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/DR.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/DR.png" alt="" width="50" align="left" /></a>
+<a href="https://www.iufrance.fr/les-membres-de-liuf/membre/1660-david-renault.html">David Renault</a>, Université de Rennes<br><br><br>
+<a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/DRoiz.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/DRoiz.png" alt="" width="50" align="left" /></a>
+<a href="https://scholar.google.it/citations?user=TYPnVQ0AAAAJ&hl=it">David Roiz</a>, Institut de recherche pour le développement<br><br><br>
+<a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/AT.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/AT.png" alt="" width="50" align="left" /></a>
+<a href="https://scholar.google.com/citations?user=59VAYs4AAAAJ&hl=en">Anna Turbelin</a>, Natural Resources Canada<br>
 
 Example content:
 
