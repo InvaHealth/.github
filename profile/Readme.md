@@ -26,7 +26,7 @@ The <em>InvaHealth</em> database will be based on a framework including an eco-e
 <a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/EA.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/EA.png" alt="" width="50" align="left" /></a>
 <a href="https://scholar.google.com/citations?user=dH_qGsMAAAAJ&hl=es">Elena Angulo</a>, Consejo Superior de Investigaciones Científicas<br><br><br>
 <a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/CB.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/CB.png" alt="" width="50" align="left" /></a>
-<a href="https://globalecologyflinders.com/people/#CJAB">Corey Bradshaw</a> (aka 'Colin Dubois', Flinders University<br><br><br>
+<a href="https://globalecologyflinders.com/people/#CJAB">Corey Bradshaw</a> (aka 'Colin Dubois'), Flinders University<br><br><br>
 <a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/FC.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/FC.png" alt="" width="50" align="left" /></a>
 <a href="https://www.biodiversitydynamics.fr/franck-courchamp/">Franck Courchamp</a>, Université Paris-Saclay<br><br><br>
 <a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/PC.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/PC.png" alt="" width="50" align="left" /></a>
