@@ -42,6 +42,8 @@ The <em>InvaHealth</em> database will be based on a framework including an eco-e
 <a href="https://www.iufrance.fr/les-membres-de-liuf/membre/1660-david-renault.html">David Renault</a> (aka Dédé), Université de Rennes<br><br><br>
 <a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/DRoiz.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/DRoiz.png" alt="" width="50" align="left" /></a>
 <a href="https://scholar.google.it/citations?user=TYPnVQ0AAAAJ&hl=it">David Roiz</a> (aka 'Dodo'), Institut de recherche pour le développement<br><br><br>
+<a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/LS.jpeg"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/LS.jpeg" alt="" width="50" align="left" /></a>
+<a href="https://github.com/LouisSimon862">Louis Simon</a>, Queen's University Belfast<br><br><br>
 <a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/AT.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/AT.png" alt="" width="50" align="left" /></a>
 <a href="https://scholar.google.com/citations?user=59VAYs4AAAAJ&hl=en">Anna Turbelin</a>, Natural Resources Canada<br><br><br>
 
