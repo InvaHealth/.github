@@ -31,7 +31,7 @@ The <em>InvaHealth</em> database will be based on a framework including an eco-e
 <a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/FC.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/FC.png" alt="" width="50" align="left" /></a>
 <a href="https://www.biodiversitydynamics.fr/franck-courchamp/">Franck Courchamp</a>, Université Paris-Saclay<br><br><br>
 <a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/PC.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/PC.png" alt="" width="50" align="left" /></a>
-<a href="https://www.cee-m.fr/fr/member/courtois-pierre-2/">Pierre Courtois</a>, Centre for Environmental Economics<br><br><br>
+<a href="https://www.cee-m.fr/fr/member/courtois-pierre-2/">Pierre Courtois</a> (aka 'Marginal'), Centre for Environmental Economics<br><br><br>
 <a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/RC.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/RC.png" alt="" width="50" align="left" /></a>
 <a href="https://pure.qub.ac.uk/en/persons/ross-cuthbert-2">Ross Cuthbert</a> (aka 'Larry Bradley'), Queen's University Belfast<br><br><br>
 <a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/MK.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/MK.png" alt="" width="50" align="left" /></a>
@@ -45,7 +45,7 @@ The <em>InvaHealth</em> database will be based on a framework including an eco-e
 <a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/LS.jpeg"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/LS.jpeg" alt="" width="50" align="left" /></a>
 <a href="https://github.com/LouisSimon862">Louis Simon</a> (aka 'Camembière'), Queen's University Belfast<br><br><br>
 <a href="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/AT.png"><img src="https://github.com/InvaHealth/.github/blob/main/profile/www/avatars/AT.png" alt="" width="50" align="left" /></a>
-<a href="https://scholar.google.com/citations?user=59VAYs4AAAAJ&hl=en">Anna Turbelin</a>, Natural Resources Canada<br><br><br>
+<a href="https://scholar.google.com/citations?user=59VAYs4AAAAJ&hl=en">Anna Turbelin</a> (aka 'Madeleine'), Natural Resources Canada<br><br><br>
 
 Example content:
 
